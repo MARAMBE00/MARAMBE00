@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 </div>
 
 ```yaml
@@ -27,19 +27,9 @@ name: "Pasindu Marambe"
 role: "Full Stack Developer"
 location: "Earth 🌍"
 languages_spoken: ["English", "Sinhala"]
-current_focus: "Building scalable web applications"
 hobbies: ["Coding", "Problem Solving", "Learning New Tech", "Open Source"]
 fun_fact: "I debug with console.log and I'm not ashamed! 😄"
-motto: "Code is poetry written in logic"
 ```
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-### 💫 *"First, solve the problem. Then, write the code."* - John Johnson
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
 
 ---
 
@@ -47,13 +37,7 @@ motto: "Code is poetry written in logic"
 
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00D8FF&center=true&vCenter=true&width=600&lines=My+Technology+Arsenal;Full+Stack+%7C+Cloud+%7C+AI;Always+Learning+New+Tech!" alt="Tech Stack Header" />
-
-<br><br>
-
-<!-- Animated wave separator -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling"/>
+<br>
 
 ### 🌐 Programming Languages
 <p>
@@ -63,7 +47,7 @@ motto: "Code is poetry written in logic"
 <!-- Animated typing for languages -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&lines=Python+%7C+Java+%7C+C%23+%7C+PHP;JavaScript+%7C+TypeScript;Building+robust+applications" alt="Languages" />
 
-<br><br>
+<br>
 
 ### 🎨 Frontend Development
 <p>
@@ -73,7 +57,7 @@ motto: "Code is poetry written in logic"
 <!-- Animated frontend display -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=700&lines=HTML5+%7C+CSS3+%7C+React+%7C+Next.js;jQuery+%7C+Bootstrap+%7C+Tailwind;Material+UI+%7C+Vite" alt="Frontend" />
 
-<br><br>
+<br>
 
 ### ⚡ Backend Development
 <p>
@@ -83,7 +67,7 @@ motto: "Code is poetry written in logic"
 <!-- Animated tech stack display -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=43853D&center=true&vCenter=true&width=700&lines=Node.js+%7C+Express.js;Flask+%7C+FastAPI;Building+scalable+APIs" alt="Backend" />
 
-<br><br>
+<br>
 
 ### 🗄️ Databases
 <p>
@@ -95,10 +79,7 @@ motto: "Code is poetry written in logic"
 <!-- Database animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2200&pause=900&color=4EA94B&center=true&vCenter=true&width=650&lines=MongoDB+%7C+PostgreSQL+%7C+MySQL;Microsoft+SQL+Server+%7C+Firebase;Data+persistence+solutions" alt="Databases" />
 
-<br><br>
-
-<!-- Animated wave separator -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,20,6&height=80&section=header&animation=fadeIn"/>
+<br>
 
 ### ☁️ Cloud & Infrastructure
 <p>
@@ -108,7 +89,7 @@ motto: "Code is poetry written in logic"
 <!-- Cloud platforms animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2800&pause=700&color=FF9900&center=true&vCenter=true&width=750&lines=AWS+%7C+Microsoft+Azure+%7C+Netlify;Cloud-first+development;Scalable+deployments" alt="Cloud" />
 
-<br><br>
+<br>
 
 ### 🐳 DevOps & Tools
 <p>
@@ -118,10 +99,7 @@ motto: "Code is poetry written in logic"
 <!-- DevOps animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2600&pause=800&color=0db7ed&center=true&vCenter=true&width=700&lines=Docker+%7C+GitHub+Actions;Containerization+%26+CI%2FCD;Automated+workflows" alt="DevOps" />
 
-<br><br>
-
-<!-- Animated separator -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,6,9,10,12,14,17,19&height=2&section=header"/>
+<br>
 
 ### 📊 Data Science & AI
 <p>
@@ -139,7 +117,7 @@ motto: "Code is poetry written in logic"
 <!-- AI/ML animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2400&pause=1000&color=FF6F00&center=true&vCenter=true&width=750&lines=TensorFlow+%7C+PyTorch+%7C+Scikit-learn;OpenCV+%7C+Jupyter+%7C+Pandas;NumPy+%7C+Matplotlib+%7C+Seaborn+%7C+Plotly" alt="AI-ML" />
 
-<br><br>
+<br>
 
 ### 🔧 Development Tools
 <p>
@@ -149,7 +127,7 @@ motto: "Code is poetry written in logic"
 <!-- Development tools animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2100&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=VS+Code+%7C+Visual+Studio;IntelliJ+IDEA;Powerful+development+environments" alt="Dev Tools" />
 
-<br><br>
+<br>
 
 ### 🔗 Version Control & Collaboration
 <p>
@@ -161,7 +139,7 @@ motto: "Code is poetry written in logic"
 <!-- Collaboration tools animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2100&pause=1200&color=F05033&center=true&vCenter=true&width=600&lines=Git+%7C+GitHub+%7C+Trello;Version+control+%26+project+management;Collaborative+development" alt="Collaboration" />
 
-<br><br>
+<br>
 
 ### 🖥️ Operating Systems
 <p>
@@ -171,7 +149,7 @@ motto: "Code is poetry written in logic"
 <!-- OS animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1100&color=FCC624&center=true&vCenter=true&width=550&lines=Linux+%7C+Windows;Cross-platform+development;System+administration" alt="Operating Systems" />
 
-<br><br>
+<br>
 
 ### 🧪 Testing
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -180,7 +158,7 @@ motto: "Code is poetry written in logic"
 <!-- Testing animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2300&pause=900&color=43B02A&center=true&vCenter=true&width=600&lines=Selenium+%7C+Postman;Automated+%26+API+testing;Quality+assurance" alt="Testing" />
 
-<br><br>
+<br>
 
 ### 📈 Analytics & Monitoring
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
@@ -188,7 +166,7 @@ motto: "Code is poetry written in logic"
 <!-- Analytics animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=E37400&center=true&vCenter=true&width=500&lines=Google+Analytics;Data-driven+insights;Performance+monitoring" alt="Analytics" />
 
-<br><br>
+<br>
 
 ### 🎨 Design Tools
 <p>
@@ -200,20 +178,11 @@ motto: "Code is poetry written in logic"
 <!-- Design tools animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=F24E1E&center=true&vCenter=true&width=600&lines=Figma+%7C+Canva;UI%2FUX+Design+%26+Prototyping;Creative+visual+solutions" alt="Design Tools" />
 
-<br><br>
-
-<!-- Animated footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<br>
 
 <!-- Animated skill development message -->
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=00D8FF&center=true&vCenter=true&width=800&lines=Continuously+learning+and+expanding+my+toolkit!;Building+tomorrow's+solutions+with+today's+technology;Every+line+of+code+tells+a+story" alt="Learning Message" />
-</div>
-
-<!-- Tech stack constellation animation -->
-<br>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=constellation&color=timeGradient&height=300&animation=blinking&fontAlign=50&fontAlignY=50&fontSize=30&desc=My%20Tech%20Universe&descAlign=50&descAlignY=65"/>
 </div>
 
 </div>
@@ -242,7 +211,6 @@ motto: "Code is poetry written in logic"
 ## 🏆 GitHub Achievements
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MARAMBE00&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
 
@@ -258,21 +226,6 @@ motto: "Code is poetry written in logic"
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MARAMBE00&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FFFFFF)
 
 </div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
-</div>
-
-- 🔭 I'm currently working on **Full Stack Web Applications**
-- 🌱 I'm currently learning **Advanced Cloud Architecture & Microservices**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 🤔 I'm looking for help with **Machine Learning Optimization**
-- 💬 Ask me about **React, Node.js, Python, and Cloud Technologies**
-- ⚡ Fun fact: **I can code for hours with just coffee and good music! ☕🎵**
 
 ---
 
@@ -295,7 +248,6 @@ motto: "Code is poetry written in logic"
 ## 🎮 Fun Coding Facts
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 </div>
 
 - 🔥 **Lines of Code Written:** 50,000+
