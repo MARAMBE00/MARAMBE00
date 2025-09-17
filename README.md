@@ -48,7 +48,7 @@ motto: "Code is poetry written in logic"
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00D8FF&center=true&vCenter=true&width=600&lines=My+Technology+Arsenal;Full+Stack+%7C+Cloud+%7C+DevOps;Always+Learning+New+Tech!" alt="Tech Stack Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00D8FF&center=true&vCenter=true&width=600&lines=My+Technology+Arsenal;Full+Stack+%7C+Cloud+%7C+AI;Always+Learning+New+Tech!" alt="Tech Stack Header" />
 
 <br><br>
 
@@ -57,20 +57,23 @@ motto: "Code is poetry written in logic"
 
 ### 🌐 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,php,js,ts&theme=dark" />
 </p>
 
 <!-- Animated typing for languages -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&lines=JavaScript+%7C+TypeScript+%7C+Python+%7C+Java+%7C+C%2B%2B;PHP+%7C+and+more..." alt="Languages" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&lines=Python+%7C+Java+%7C+C%23+%7C+PHP;JavaScript+%7C+TypeScript;Building+robust+applications" alt="Languages" />
 
 <br><br>
 
 ### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,jquery,bootstrap,tailwind,sass,materialui,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,jquery,bootstrap,tailwind,materialui,vite&theme=dark" />
 </p>
 
-<br>
+<!-- Animated frontend display -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=700&lines=HTML5+%7C+CSS3+%7C+React+%7C+Next.js;jQuery+%7C+Bootstrap+%7C+Tailwind;Material+UI+%7C+Vite" alt="Frontend" />
+
+<br><br>
 
 ### ⚡ Backend Development
 <p>
@@ -78,7 +81,7 @@ motto: "Code is poetry written in logic"
 </p>
 
 <!-- Animated tech stack display -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=43853D&center=true&vCenter=true&width=700&lines=Node.js+%7C+Express+%7C+Django+%7C+Flask;Spring+%7C+.NET+%7C+Laravel+%7C+Rails;GraphQL+%7C+Apollo+%7C+NestJS" alt="Backend" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=43853D&center=true&vCenter=true&width=700&lines=Node.js+%7C+Express.js;Flask+%7C+FastAPI;Building+scalable+APIs" alt="Backend" />
 
 <br><br>
 
@@ -87,8 +90,10 @@ motto: "Code is poetry written in logic"
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark" />
 </p>
 
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 <!-- Database animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2200&pause=900&color=4EA94B&center=true&vCenter=true&width=650&lines=MongoDB+%7C+PostgreSQL+%7C+MySQL;Redis+%7C+Elasticsearch+%7C+Firebase;SQLite+%7C+Supabase+%7C+Oracle" alt="Databases" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2200&pause=900&color=4EA94B&center=true&vCenter=true&width=650&lines=MongoDB+%7C+PostgreSQL+%7C+MySQL;Microsoft+SQL+Server+%7C+Firebase;Data+persistence+solutions" alt="Databases" />
 
 <br><br>
 
@@ -97,21 +102,21 @@ motto: "Code is poetry written in logic"
 
 ### ☁️ Cloud & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,vercel,netlify,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,netlify&theme=dark" />
 </p>
 
 <!-- Cloud platforms animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2800&pause=700&color=FF9900&center=true&vCenter=true&width=750&lines=AWS+%7C+Google+Cloud+%7C+Microsoft+Azure;Docker+%7C+Kubernetes+%7C+Heroku;Vercel+%7C+Netlify+%7C+DigitalOcean" alt="Cloud" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2800&pause=700&color=FF9900&center=true&vCenter=true&width=750&lines=AWS+%7C+Microsoft+Azure+%7C+Netlify;Cloud-first+development;Scalable+deployments" alt="Cloud" />
 
 <br><br>
 
-### 🐳 DevOps & CI/CD
+### 🐳 DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=docker,githubactions&theme=dark" />
 </p>
 
 <!-- DevOps animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2600&pause=800&color=0db7ed&center=true&vCenter=true&width=700&lines=Docker+%7C+Kubernetes+%7C+Jenkins;GitHub+Actions+%7C+GitLab+CI%2FCD;Terraform+%7C+Ansible+%7C+Nginx" alt="DevOps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2600&pause=800&color=0db7ed&center=true&vCenter=true&width=700&lines=Docker+%7C+GitHub+Actions;Containerization+%26+CI%2FCD;Automated+workflows" alt="DevOps" />
 
 <br><br>
 
@@ -123,32 +128,38 @@ motto: "Code is poetry written in logic"
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,jupyter&theme=dark" />
 </p>
 
-<!-- AI/ML animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2400&pause=1000&color=FF6F00&center=true&vCenter=true&width=650&lines=TensorFlow+%7C+PyTorch+%7C+Scikit-learn;OpenCV+%7C+Jupyter+%7C+Pandas;NumPy+%7C+Matplotlib+%7C+Keras" alt="AI-ML" />
-
 <!-- Additional AI/ML badges -->
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/seaborn-%23013243.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+<!-- AI/ML animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2400&pause=1000&color=FF6F00&center=true&vCenter=true&width=750&lines=TensorFlow+%7C+PyTorch+%7C+Scikit-learn;OpenCV+%7C+Jupyter+%7C+Pandas;NumPy+%7C+Matplotlib+%7C+Seaborn+%7C+Plotly" alt="AI-ML" />
 
 <br><br>
 
 ### 🔧 Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,pycharm,androidstudio,xcode,vim,sublime,atom&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea&theme=dark" />
 </p>
 
-<br>
+<!-- Development tools animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2100&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=VS+Code+%7C+Visual+Studio;IntelliJ+IDEA;Powerful+development+environments" alt="Dev Tools" />
+
+<br><br>
 
 ### 🔗 Version Control & Collaboration
 <p>
   <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 </p>
 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
 <!-- Collaboration tools animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2100&pause=1200&color=F05033&center=true&vCenter=true&width=600&lines=Git+%7C+GitHub+%7C+GitLab;Jira+%7C+Confluence+%7C+Slack;Notion+%7C+Trello+%7C+Discord" alt="Collaboration" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2100&pause=1200&color=F05033&center=true&vCenter=true&width=600&lines=Git+%7C+GitHub+%7C+Trello;Version+control+%26+project+management;Collaborative+development" alt="Collaboration" />
 
 <br><br>
 
@@ -158,30 +169,36 @@ motto: "Code is poetry written in logic"
 </p>
 
 <!-- OS animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1100&color=FCC624&center=true&vCenter=true&width=550&lines=Linux+%7C+Ubuntu+%7C+Debian;Windows+%7C+macOS+%7C+CentOS;Red+Hat+%7C+Alpine+Linux" alt="Operating Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1100&color=FCC624&center=true&vCenter=true&width=550&lines=Linux+%7C+Windows;Cross-platform+development;System+administration" alt="Operating Systems" />
 
 <br><br>
 
-### 🧪 Testing Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium&theme=dark" />
-</p>
-
-<!-- Testing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2300&pause=900&color=C21325&center=true&vCenter=true&width=600&lines=Jest+%7C+Cypress+%7C+Selenium;Mocha+%7C+Jasmine+%7C+Testing+Library;Postman+%7C+Unit+%7C+Integration" alt="Testing" />
-
-<!-- Additional testing badges -->
+### 🧪 Testing
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<!-- Testing animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2300&pause=900&color=43B02A&center=true&vCenter=true&width=600&lines=Selenium+%7C+Postman;Automated+%26+API+testing;Quality+assurance" alt="Testing" />
+
 <br><br>
 
-### 🎨 Design & Creativity
+### 📈 Analytics & Monitoring
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+
+<!-- Analytics animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=E37400&center=true&vCenter=true&width=500&lines=Google+Analytics;Data-driven+insights;Performance+monitoring" alt="Analytics" />
+
+<br><br>
+
+### 🎨 Design Tools
 <p>
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 </p>
 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 <!-- Design tools animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=F24E1E&center=true&vCenter=true&width=600&lines=Figma+%7C+Adobe+XD+%7C+Sketch;Photoshop+%7C+Illustrator+%7C+Canva;UI%2FUX+Design+%7C+Prototyping" alt="Design Tools" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=F24E1E&center=true&vCenter=true&width=600&lines=Figma+%7C+Canva;UI%2FUX+Design+%26+Prototyping;Creative+visual+solutions" alt="Design Tools" />
 
 <br><br>
 
@@ -190,7 +207,7 @@ motto: "Code is poetry written in logic"
 
 <!-- Animated skill development message -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=00D8FF&center=true&vCenter=true&width=800&lines=Continuously+learning+and+expanding+my+toolkit!;The+journey+of+a+thousand+commits+begins+with+one;Building+tomorrow's+solutions+with+today's+technology" alt="Learning Message" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=00D8FF&center=true&vCenter=true&width=800&lines=Continuously+learning+and+expanding+my+toolkit!;Building+tomorrow's+solutions+with+today's+technology;Every+line+of+code+tells+a+story" alt="Learning Message" />
 </div>
 
 <!-- Tech stack constellation animation -->
@@ -267,8 +284,6 @@ motto: "Code is poetry written in logic"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasindumarambe/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://pasindumarambe.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pasindurmarambe00@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MARAMBE00)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/MARAMBE00)
 
 ### 💬 Open to collaborate on innovative projects!
 ### 🚀 Let's build something amazing together!
